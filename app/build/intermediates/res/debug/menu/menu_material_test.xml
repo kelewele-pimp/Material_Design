@@ -2,7 +2,17 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.desmond.materialdesigntest.MaterialTest">
-    <item android:id="@+id/action_settings" android:title="@string/action_settings"
-        android:orderInCategory="100" app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/navigate"
+        android:title="@string/next"
+        android:icon="@drawable/arrow_right"
+        app:showAsAction="always"
+        android:orderInCategory="200" />
 </menu>
 <!-- From: file:/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/src/main/res/menu/menu_material_test.xml -->

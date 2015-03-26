@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
+        jar="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-f8f56942c59bcd27caa0284a2f504f1a06538abd.jar" />
+    </item>
+    <item
         jar="/home/desmond/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e8289e633115c5037ad23d936c208503b990638a.jar" />
+        <dex dex="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e8289e633115c5037ad23d936c208503b990638a.jar" />
     </item>
     <item
-        jar="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="22.0.0"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-049915906bddc6d004827937f59eab722721ad4a.jar" />
-    </item>
-    <item
-        jar="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jar="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/classes-c030bba57a123ebd453e3349f91b82d32b84f8d7.jar" />
+        <dex dex="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/classes-54cee28d5169ee85b703b74f6f33eb07ca7ea5c6.jar" />
     </item>
     <item
-        jar="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jar="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
         jumboMode="false"
         revision="22.0.0"
         sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/home/desmond/Documents/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/classes-11a97a9a77c549d744bdf7c95d95a36d24eb0652.jar" />
+        <dex dex="/home/desmond/Documents/AndroidStudioProjects/MaterialDesignTest/app/build/intermediates/pre-dexed/debug/classes-9d7df9f5deebe711b7107a28138396d68cc0f178.jar" />
     </item>
 
 </items>
